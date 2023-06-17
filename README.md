@@ -4,7 +4,7 @@
 
 Weather app with search, data for next days, swipe navigation
 
-<img width="200" alt="image" src="https://github.com/matvii1/nativetest/assets/101810764/53b89d85-1022-4016-adc8-b619b605a50e">
+<img width="200" alt="image" src="https://github.com/ssmdssmp/weather-react-native/assets/screenshots/screen-1.png">
 <img width="200" alt="image" src="https://github.com/matvii1/nativetest/assets/101810764/acd2f17f-8159-4328-ad79-c8407dc449fc">
 <img width="200" alt="image" src="https://github.com/matvii1/nativetest/assets/101810764/16e93229-9fed-4232-909b-e5b32edaa64f">
 
