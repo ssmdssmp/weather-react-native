@@ -5,10 +5,14 @@
 Weather app with search, data for next days, swipe navigation
 
 <img width="200" alt="image" src="https://github.com/ssmdssmp/weather-react-native/assets/93074427/d5a04046-36c3-4b6d-a448-b23606b443e6">
-<img width="200" alt="image" src="https://github.com/matvii1/nativetest/assets/101810764/acd2f17f-8159-4328-ad79-c8407dc449fc">
-<img width="200" alt="image" src="https://github.com/matvii1/nativetest/assets/101810764/16e93229-9fed-4232-909b-e5b32edaa64f">
+<img width="200" alt="image" src="https://github.com/ssmdssmp/weather-react-native/assets/93074427/4bbcd508-f2da-4e85-a01b-2e20756f0f05">
+<img width="200" alt="image" src="https://github.com/ssmdssmp/weather-react-native/assets/93074427/fbcc1315-dc1b-4094-b98d-2ebdc48a91bf">
+<img width="200" alt="image" src="https://github.com/ssmdssmp/weather-react-native/assets/93074427/aa11eb05-50bf-4042-b48d-2e3adef7d787">
 
-## Prerequisites![screen-1](https://github.com/ssmdssmp/weather-react-native/assets/93074427/d5a04046-36c3-4b6d-a448-b23606b443e6)
+
+
+
+## Prerequisites!
 
 
 - [Node.js > 12](https://nodejs.org) and npm (Recommended: Use [nvm](https://github.com/nvm-sh/nvm))
