@@ -4,6 +4,8 @@
 
 Weather app with search, data for next days, swipe navigation
 
+Android only due to http request
+
 <img width="200" alt="image" src="https://github.com/ssmdssmp/weather-react-native/assets/93074427/d5a04046-36c3-4b6d-a448-b23606b443e6">
 <img width="200" alt="image" src="https://github.com/ssmdssmp/weather-react-native/assets/93074427/4bbcd508-f2da-4e85-a01b-2e20756f0f05">
 <img width="200" alt="image" src="https://github.com/ssmdssmp/weather-react-native/assets/93074427/fbcc1315-dc1b-4094-b98d-2ebdc48a91bf">
